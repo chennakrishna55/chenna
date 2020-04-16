@@ -12,4 +12,5 @@ Testing git pull Second time
 Testing git pull origin master
 Testing git fetch
 Testing git merge
+Testing git stash
 Testing git stash second time
