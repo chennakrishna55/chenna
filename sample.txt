@@ -3,9 +3,7 @@ Testing git pull -r --> these changes should not reflect in local when we use gi
 Committing from local
 Testing second time for git pull -r
 Testing git pull
-Branch1
 Testing git pull -r command
-Editing
 Testing git pull -r with master branch
 Testing git pull
 Testing git pull Second time
@@ -19,6 +17,3 @@ Testing git rebase 3
 Testing git rebase 4
 Testing git rebase second time
 Testing git rebase second time 2
-
-
-
