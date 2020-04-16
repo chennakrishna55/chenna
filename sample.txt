@@ -1,4 +1,5 @@
 Testing git pull -r --> these changes should not reflect in local when we use git pull -r
 Committing from local
 Testing second time for git pull -r
+Testing git pull
 
