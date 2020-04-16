@@ -16,5 +16,3 @@ Testing git rebase
 Testing git rebase 2
 Testing git rebase 3
 Testing git rebase 4
-Testing git pull
-Testing git pull -r command
