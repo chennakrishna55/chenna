@@ -1,3 +1,4 @@
 Testing git pull -r command
 Editing
 Testing git pull -r with master branch
+Testing git pull
