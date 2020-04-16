@@ -10,4 +10,4 @@ Testing git pull -r with master branch
 Testing git pull
 Testing git pull Second time
 Testing git pull origin master
->>>>>>> 4edaaab3c44ac03ab2db9d7df20f1c8af1fc43bf
+
