@@ -3,3 +3,4 @@ Editing
 Testing git pull -r with master branch
 Testing git pull
 Testing git pull Second time
+Testing git pull origin master
