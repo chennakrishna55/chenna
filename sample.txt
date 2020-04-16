@@ -16,5 +16,5 @@ Testing git rebase
 Testing git rebase 2
 Testing git rebase 3
 Testing git rebase 4
-Testing git rebase second time
+Testing git rebase  second time
 Testing git rebase second time 2
