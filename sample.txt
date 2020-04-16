@@ -1,5 +1,4 @@
 Master
-Committing from local
 Testing second time for git pull -r
 Testing git pull
 Testing git pull -r command
