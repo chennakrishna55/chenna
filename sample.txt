@@ -3,7 +3,6 @@ Testing git pull -r --> these changes should not reflect in local when we use gi
 Committing from local
 Testing second time for git pull -r
 Testing git pull
-Branch1
 Testing git pull -r command
 Editing
 Testing git pull -r with master branch
@@ -14,3 +13,5 @@ Testing git fetch
 Testing git merge
 Testing git stash
 Testing git stash second time
+Removing files from git stash
+Testing Git merge and git rebase
