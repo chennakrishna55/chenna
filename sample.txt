@@ -14,3 +14,4 @@ Testing git stash
 Removing files from git stash
 Testing git merge
 Testing git rebase
+Testing git rebase 2
