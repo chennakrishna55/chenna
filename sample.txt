@@ -9,6 +9,7 @@ Testing git pull origin master
 Testing git stash
 Testing git stash second time
 Removing files from git stash
+Testing Git merge and git rebase
 Testing git fetch
 Testing git merge
 Testing git rebase
