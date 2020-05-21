@@ -18,3 +18,4 @@ Testing git rebase 3
 Testing git rebase 4
 Testing git rebase second time
 Testing git rebase second time2
+Testing git rebase in Branch2
