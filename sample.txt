@@ -24,4 +24,5 @@ Testing git rebase in Branch2 3
 Testing git rebase in Branch2 5
 Testing git rebase in Branch2 6
 Testing git rebase in Branch2 7
+Testing git rebase in Branch2 8
 
